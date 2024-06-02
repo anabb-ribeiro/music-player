@@ -1,0 +1,31 @@
+.each-music {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.each-music img {
+  width: 180px;
+}
+
+.title {
+  color: #FFF;
+  font-family: Rubik;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.description {
+  width: 180px;
+
+  color: #CCC3C3;
+  text-align: justify;
+  font-family: Rubik;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
